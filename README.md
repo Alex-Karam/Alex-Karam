@@ -6,8 +6,8 @@ My research background includes mathematical modelling, numerical analysis and c
 
 ## Data analytics projects
 
-- **Customer Activation and Feature Adoption**  
-  Funnels, conversion windows, cohorts and repeat activity using MySQL and Power BI. Analysis and report complete; public case study in preparation. Uses 365 Data Science student observations under an explicitly hypothetical financial-services interpretation.
+- **[Customer Activation and Feature Adoption](https://alex-karam.github.io/projects/customer-activation/index.html)**  
+  Funnels, conversion windows, cohorts and repeat activity using MySQL and Power BI. Completed analysis with a published case study and three-page Power BI report available as a PDF. Uses 365 Data Science student observations under an explicitly hypothetical financial-services interpretation.
 
 - **Small Business Sales and Order Analytics**  
   Turning operational spreadsheets into a validated relational model and business reporting. In progress. The public demonstration will use synthetic data.
