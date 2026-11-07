@@ -18,6 +18,9 @@ My research background includes mathematical modelling, numerical analysis and c
 - **Index Put Options — Risk and Trade Reconciliation**  
   Investigating simulated trade records, costs, capital requirements and risk. In progress.
 
+- **Credit Card Repayment Risk — Analysis and Explainable Prediction**  
+  Planning stage. Scope defined for analysing historical repayment patterns, logistic regression, probability calibration and model evaluation using MySQL, Python and Power BI.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/alexandros-karam-09565b25/) · [ORCID](https://orcid.org/0000-0002-0582-8996) · [INSPIRE-HEP](https://inspirehep.net/authors/1391058)
