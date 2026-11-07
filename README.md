@@ -12,8 +12,8 @@ My research background includes mathematical modelling, numerical analysis and c
 - **[Small Business Sales and Order Analytics](https://alex-karam.github.io/projects/small-business-sales-and-order-analytics/index.html)**  
   Turning operational spreadsheets into a validated MySQL model and a completed four-page Power BI report. Published case study using approved real aggregate business results.
 
-- **FX Time Range Breakout — Backtest Analytics**  
-  Data validation, historical backtest analysis and parameter sensitivity. In progress.
+- **[FX Time Range Breakout — Backtest Analytics](https://alex-karam.github.io/projects/fx-time-range-breakout/index.html)**  
+  Python/pandas validation and MySQL analysis of historical breakout configurations across 28 FX pairs, with a separate USDJPY exit-time study. Completed 14-page Power BI report; findings are in-sample research results.
 
 - **Index Put Options — Risk and Trade Reconciliation**  
   Investigating simulated trade records, costs, capital requirements and risk. In progress.
