@@ -15,6 +15,9 @@ My research background includes mathematical modelling, numerical analysis and c
 - **[Cookie Cats A/B Test](https://alex-karam.github.io/projects/cookie-cats-ab-test/index.html)**  
   Analysed day-7 retention for 90,189 players using MySQL, Python and Power BI. Moving the progression gate from level 30 to level 40 was associated with a 0.82 percentage-point drop in day-7 retention (95% CI: −1.33 to −0.31). Recommended keeping level 30 while verifying the planned allocation and day-7 follow-up coverage. [Technical repository](https://github.com/Alex-Karam/cookie-cats-ab-test)
 
+- **[ASOS Decision Timing](https://alex-karam.github.io/projects/asos-decision-timing/index.html)**  
+  Replayed three A/B test stopping rules across 37 historical ASOS comparisons using Python and Power BI. Repeated 5% testing reached 15 early decisions, compared with 10 under Bonferroni correction. The final readout served as a reference because the true effects are unknown. [Technical repository](https://github.com/Alex-Karam/asos-decision-timing)
+
 - **[Credit Card Repayment Risk](https://alex-karam.github.io/projects/credit-card-repayment-risk/index.html)**  
   Historical study of next-month default among 30,000 Taiwanese credit-card clients from 2005, using MySQL, Python, Power BI and Excel. On 6,000 held-out clients, logistic regression achieved ROC AUC of 0.7719 versus 0.5000 for the baseline. A hypothetical queue reviewing the top 20% captured 673 of 1,327 observed defaults (50.72%). [Technical repository](https://github.com/Alex-Karam/credit-card-repayment-risk)
 
