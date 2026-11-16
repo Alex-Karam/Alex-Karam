@@ -30,8 +30,8 @@ My research background includes mathematical modelling, numerical analysis and c
 - **[FX Time Range Breakout — Backtest Analytics](https://alex-karam.github.io/projects/fx-time-range-breakout/index.html)**  
   Python/pandas validation and MySQL analysis of historical breakout configurations across 28 FX pairs, with a separate USDJPY exit-time study. Completed 14-page Power BI report; findings are in-sample research results. [Technical repository](https://github.com/Alex-Karam/fx-time-range-breakout)
 
-- **Index Put Options — Risk and Trade Reconciliation**  
-  Investigating simulated trade records, costs, capital requirements and risk. In progress.
+- **[QQQ Options Backtest Reconciliation and Risk Analysis](https://alex-karam.github.io/projects/qqq-options-backtest-reconciliation/index.html)**  
+  Reconciled fees and net P&L for 415 simulated QQQ options trades and tied 830 orders to gross leg cash flows in MySQL. Cross-checked monthly totals in Python and recorded seven open settlement exceptions. The three-page Power BI report covers returns, drawdown and fill-cost sensitivity over a 100-month historical window. [Technical repository](https://github.com/Alex-Karam/qqq-options-backtest-reconciliation)
 
 ## Connect
 
