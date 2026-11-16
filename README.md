@@ -24,6 +24,9 @@ My research background includes mathematical modelling, numerical analysis and c
 - **[KYC Review and Capacity Planning](https://alex-karam.github.io/projects/kyc-review-capacity-planning/index.html)**  
   Built a MySQL follow-up queue for fictional customer files and used Python to forecast onboarding and simulate staffing. Adding one analyst during a five-day surge raised simulated on-time completion from 83.0% to 100%. The two-page Power BI report shows the queue and staffing results. [Technical repository](https://github.com/Alex-Karam/kyc-review-capacity-planning)
 
+- **[AML Transaction Review](https://alex-karam.github.io/projects/aml-transaction-review/index.html)**  
+  Compared three rankings on IBM synthetic transactions using MySQL, Python and Power BI, freezing the rankings before accessing the test labels. On 9–10 September 2022, at 500 reviews per ranking per day, the decision tree caught 53 of 956 transactions labelled as laundering. Amount alone caught 7 and the weighted history rule caught 1. [Technical repository](https://github.com/Alex-Karam/aml-transaction-review)
+
 - **[FX Time Range Breakout — Backtest Analytics](https://alex-karam.github.io/projects/fx-time-range-breakout/index.html)**  
   Python/pandas validation and MySQL analysis of historical breakout configurations across 28 FX pairs, with a separate USDJPY exit-time study. Completed 14-page Power BI report; findings are in-sample research results. [Technical repository](https://github.com/Alex-Karam/fx-time-range-breakout)
 
