@@ -27,6 +27,9 @@ My research background includes mathematical modelling, numerical analysis and c
 - **[AML Transaction Review](https://alex-karam.github.io/projects/aml-transaction-review/index.html)**  
   Compared three rankings on IBM synthetic transactions using MySQL, Python and Power BI, freezing the rankings before accessing the test labels. On 9–10 September 2022, at 500 reviews per ranking per day, the decision tree caught 53 of 956 transactions labelled as laundering. Amount alone caught 7 and the weighted history rule caught 1. [Technical repository](https://github.com/Alex-Karam/aml-transaction-review)
 
+- **[Merchant Payments Reconciliation](https://alex-karam.github.io/projects/merchant-payments-reconciliation/index.html)**  
+  Reconciled synthetic EUR ledger, processor and bank records in MySQL. At the 30 June cutoff, €159.00 of €422.00 had posted. All three payouts matched bank postings by 2 July, with four ledger and processor exceptions still open. All 42 dbt tests passed, and the two-page Power BI report shows both cutoffs. [Technical repository](https://github.com/Alex-Karam/merchant-payments-reconciliation)
+
 - **[FX Time Range Breakout — Backtest Analytics](https://alex-karam.github.io/projects/fx-time-range-breakout/index.html)**  
   Python/pandas validation and MySQL analysis of historical breakout configurations across 28 FX pairs, with a separate USDJPY exit-time study. Completed 14-page Power BI report; findings are in-sample research results. [Technical repository](https://github.com/Alex-Karam/fx-time-range-breakout)
 
