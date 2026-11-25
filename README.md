@@ -21,6 +21,9 @@ My research background includes mathematical modelling, numerical analysis and c
 - **[Credit Card Repayment Risk](https://alex-karam.github.io/projects/credit-card-repayment-risk/index.html)**  
   Historical study of next-month default among 30,000 Taiwanese credit-card clients from 2005, using MySQL, Python, Power BI and Excel. On 6,000 held-out clients, logistic regression achieved ROC AUC of 0.7719 versus 0.5000 for the baseline. A hypothetical queue reviewing the top 20% captured 673 of 1,327 observed defaults (50.72%). [Technical repository](https://github.com/Alex-Karam/credit-card-repayment-risk)
 
+- **[Early Mortgage Payoff in Fixed-Rate FHA Loans](https://alex-karam.github.io/projects/early-mortgage-payoff-fha/index.html)**  
+  Compared six-month payoff forecasts for fixed-rate FHA purchase loans in Ginnie Mae II pools using MySQL, Python and Power BI. Across 669,879 loan-cohort forecasts, the rate-gap model had a 0.58% lower Brier score than the note-rate model. Most validation rows involved loan IDs seen in training. [Technical repository](https://github.com/Alex-Karam/early-mortgage-payoff-fha)
+
 - **[KYC Review and Capacity Planning](https://alex-karam.github.io/projects/kyc-review-capacity-planning/index.html)**  
   Built a MySQL follow-up queue for fictional customer files and used Python to forecast onboarding and simulate staffing. Adding one analyst during a five-day surge raised simulated on-time completion from 83.0% to 100%. The two-page Power BI report shows the queue and staffing results. [Technical repository](https://github.com/Alex-Karam/kyc-review-capacity-planning)
 
